@@ -1,0 +1,18 @@
+body {
+    background: #dfdfdf;
+}
+
+p {
+    color: rgb(34, 34, 34)
+}
+
+.foto-principal{
+    width: 200px; /* tamanho da imagem */
+    border: 2px solid #888585; /* exatamente nessa ordem*/
+    border-radius: 50%; /* deixando a bora redonda */
+    /*
+    border-width: 5px; >>>>> espessura
+     border-style: solid; >>>>> tipo
+    border-color: black;   >>>>> cor
+    */
+}
